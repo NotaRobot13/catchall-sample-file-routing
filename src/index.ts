@@ -1,5 +1,5 @@
 import express from 'express';
-import createRouter from '@notarobot13/express-file-routing'
+import createRouter from 'express-file-routing'
 
 const app = express();
 
